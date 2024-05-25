@@ -1,5 +1,4 @@
 name: Continuous Deployment
-name: CD for React UI Component
 
 on:
   push:
