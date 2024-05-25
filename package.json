@@ -10,7 +10,7 @@
     "build": "webpack"
   },
   "author": "Jith Stephen",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.24.0",
     "@babel/preset-env": "^7.24.0",
