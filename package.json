@@ -1,6 +1,6 @@
 {
   "name": "jsuicomponentlibrary",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "React Ui Components ",
   "main": "./src/lib.js",
   "scripts": {
