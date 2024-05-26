@@ -1,12 +1,12 @@
 {
   "name": "jsuicomponentlibrary",
-  "version": "1.0.4",
+  "version": "1.0.6",
   "description": "React Ui Components ",
   "main": "./src/lib.js",
   "scripts": {
     "start": "webpack — watch",
     "build": "webpack",
-    "prepublish": "npm build",
+    "prepublish": "npm run build",
     "test": "echo \"Error: no test specified\" && exit 1",
     "storybook": "storybook dev -p 6006",
     "build-storybook": "storybook build"
