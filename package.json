@@ -1,16 +1,22 @@
 {
   "name": "jsuicomponentlibrary",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "React Ui Components ",
   "main": "./src/lib.js",
   "scripts": {
+    "start": "webpack — watch",
+    "build": "webpack",
+    "prepublish": "npm build",
     "test": "echo \"Error: no test specified\" && exit 1",
     "storybook": "storybook dev -p 6006",
-    "build-storybook": "storybook build",
-    "build": "webpack"
+    "build-storybook": "storybook build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jithstephen13/jsUiComponentLibrary"
   },
   "author": "Jith Stephen",
-  "license": "MIT",
+  "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.24.0",
     "@babel/preset-env": "^7.24.0",
