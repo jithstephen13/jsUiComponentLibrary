@@ -8,3 +8,9 @@
 ### Bugs fixed:
 
 - conventional change log([`82e640d`](https://github.com/jithstephen13/jsUiComponentLibrary/commit/82e640d957c22a3cd4d1681b312cb0d51e5831fe)) (by jithstephen)
+
+## [1.1.1] (2024-06-03)
+
+### Bugs fixed:
+
+- packeges and changes([`5c544a4`](https://personal/jithstephen13/jsUiComponentLibrary/commit/5c544a4425e00e208c38b89e5631f4170abd6bfe)) (by jithstephen)
