@@ -4,7 +4,7 @@
   "description": "React Ui Components ",
   "main": "./src/lib.js",
   "scripts": {
-    "start": "webpack — watch",
+    "start": "webpack serve --open --config webpack.config.js",
     "build": "webpack",
     "prepublish": "npm run build",
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -40,7 +40,8 @@
     "storybook": "^7.6.17",
     "style-loader": "^3.3.4",
     "webpack": "^5.90.3",
-    "webpack-cli": "^5.1.4"
+    "webpack-cli": "^5.1.4",
+    "webpack-dev-server": "^4.15.2"
   },
   "peerDependencies": {
     "react": "^18.2.0",
