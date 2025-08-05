@@ -1,3 +1,9 @@
+## [1.2.0] (2025-08-05)
+
+### New feature:
+
+- custome table([`b7efcd6`](https://github.com-personal/jithstephen13/jsUiComponentLibrary/commit/b7efcd610172ecc56ff62f486328004078552f37)) (by Jith Stephen)
+
 ## [1.1.0] (2024-05-28)
 
 ### New feature:
