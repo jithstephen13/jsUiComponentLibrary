@@ -1,5 +1,5 @@
 import React from 'react';
-import { AdvancedTable } from '../custom-components';
+import { AdvancedTable } from '../components/custom-Table';
 
 export default {
   title: 'Components/AdvancedTable',
