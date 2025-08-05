@@ -60,6 +60,7 @@ import {
 } from '@chakra-ui/react';
 
 import { Button } from './components/Button';
+import { AdvancedTable } from './components/custom-Table'
 
 export {
   Button,
@@ -120,5 +121,6 @@ export {
   MenuGroup,
   MenuOptionGroup,
   MenuDivider,
-  Avatar
+  Avatar,
+  AdvancedTable
 };
