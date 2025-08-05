@@ -48,9 +48,11 @@
     "react-dom": "^18.2.0"
   },
   "dependencies": {
+    "@chakra-ui/icons": "^2.2.4",
     "@chakra-ui/react": "^2.8.2",
     "@emotion/react": "^11.11.4",
     "@emotion/styled": "^11.11.0",
-    "framer-motion": "^11.0.8"
+    "framer-motion": "^11.0.8",
+    "lodash-es": "^4.17.21"
   }
 }
